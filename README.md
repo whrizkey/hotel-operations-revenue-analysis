@@ -50,6 +50,14 @@ GROUP BY
 ## Power BI Dashboard Structure
 The dashboard is navigated via an interactive button menu (Page Navigator) and is divided into distinct operational views:
 
+<img width="1518" height="956" alt="Screenshot 2026-08-13 at 11 37 27" src="https://github.com/user-attachments/assets/73484a0e-31fe-4044-b062-6df2ee5ea719" />
+<img width="1526" height="1003" alt="Screenshot 2026-08-13 at 11 37 11" src="https://github.com/user-attachments/assets/3d23e235-dcae-483e-92ff-2dad40d74078" />
+
+
+https://github.com/user-attachments/assets/7e53c8d6-282a-421f-af80-4a8edb4a07aa
+
+
+
 ### 1. Executive Summary (Total Property Revenue)
 * **Objective:** A pulse on the property's financial health.
 * **Key Visuals:** 
